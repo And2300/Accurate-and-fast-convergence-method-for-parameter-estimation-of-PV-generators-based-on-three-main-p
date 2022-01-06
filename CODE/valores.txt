@@ -1,0 +1,69 @@
+﻿valores para TABLA:
+
+%Módulo A-120
+err=10e-5;
+T=56+273.15;
+V_OC=19.05;
+I_SC=7.46;
+V_MP=13.85;
+I_MP=6.31;
+numcel=36;
+
+err=10e-5;
+T=25+273.15;
+V_OC=21;
+I_SC=7.7;
+V_MP=16.9;
+I_MP=7.1;
+numcel=36;
+
+
+%Módulo A-130
+err=10e-5;
+T=39+273.15;
+V_OC=38.9;
+I_SC=4.33;
+V_MP=29.5;
+I_MP=3.61;
+numcel=72;
+
+
+%Módulo I-110
+err=10e-5;
+T=45+273.15;
+V_OC=39.4;
+I_SC=3.37;
+V_MP=31;
+I_MP=3;
+numcel=72;
+
+%SunTech STP-280
+err=10e-5;
+T=25+273.15;
+V_OC=44.8;
+I_SC=8.33;
+V_MP=35.2;
+I_MP=7.95;
+numcel=72;
+
+
+%SunTech SPR-315
+err=10e-5;
+T=25+273.15;
+V_OC=64.6;
+I_SC=6.14;
+V_MP=54.7;
+I_MP=5.76;
+numcel=96;
+
+
+
+valores para GRÁFICA:
+%Módulo A-120
+err=10e-5;
+T=56+273.15;
+V_OC=19.05;
+I_SC=7.46;
+V_MP=13.85;
+I_MP=6.31;
+numcel=2;
